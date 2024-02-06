@@ -18,11 +18,6 @@
     "require": {
         "php": ">=7.0"
     },
-    "require-dev": {
-        "phpunit/phpunit": "^6.5",
-        "phpdocumentor/phpdocumentor": "^2.8",
-        "satooshi/php-coveralls": "^2.0"
-    },
     "autoload": {
         "psr-4": {
             "YaLinqo\\": "YaLinqo/"
